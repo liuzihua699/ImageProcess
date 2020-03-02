@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36d013d7-47ea-4c5f-a955-156914343e0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCsAhMHKgcgaS7UuXSmJUeteQ9" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zihua/opencv" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OpenCV-example\src\main\java\com\zihua\opencv" />
+      <recent name="F:\OpenCV-example\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.example3">
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zihua.work.Pattern" />
+      <module name="OpenCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zihua.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zihua.opencv.example1" />
+      <module name="OpenCV" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=F:\opencv\build\java\x64" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zihua.opencv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zihua.opencv.example2" />
+      <module name="OpenCV" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=F:\opencv\build\java\x64" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zihua.opencv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zihua.opencv.example3" />
+      <module name="OpenCV" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=F:\opencv\build\java\x64" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zihua.opencv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.example1" />
+      <item itemvalue="Application.Pattern" />
+      <item itemvalue="Application.example2" />
+      <item itemvalue="Application.example3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.example3" />
+        <item itemvalue="Application.example2" />
+        <item itemvalue="Application.example1" />
+        <item itemvalue="Application.Pattern" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36d013d7-47ea-4c5f-a955-156914343e0b" name="Default Changelist" comment="" />
+      <created>1582457768751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582457768751</updated>
+      <workItem from="1582457771909" duration="4912000" />
+      <workItem from="1582469714765" duration="11710000" />
+      <workItem from="1583156019356" duration="6982000" />
+      <workItem from="1583164065311" duration="12491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="183" width="924" height="683" key="#Project_Structure" timestamp="1583166209390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="444" y="183" width="924" height="683" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1583166209390" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583175825590">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583175825590" />
+    <state x="740" y="230" width="768" height="590" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583165130238">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="230" width="768" height="590" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583165130238" />
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1583158752960">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1583158752960" />
+    <state x="739" y="383" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583172791634">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="383" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1583172791634" />
+    <state x="634" y="265" width="660" height="647" key="FileChooserDialogImpl" timestamp="1583175166608">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="634" y="265" width="660" height="647" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583175166608" />
+    <state width="1877" height="235" key="GridCell.Tab.0.bottom" timestamp="1583176463476">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583176463476" />
+    <state width="1877" height="235" key="GridCell.Tab.0.center" timestamp="1583176463475">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583176463475" />
+    <state width="1877" height="235" key="GridCell.Tab.0.left" timestamp="1583176463475">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583176463475" />
+    <state width="1877" height="235" key="GridCell.Tab.0.right" timestamp="1583176463475">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583176463475" />
+    <state width="1877" height="365" key="GridCell.Tab.1.bottom" timestamp="1583172344186">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583172344186" />
+    <state width="1877" height="365" key="GridCell.Tab.1.center" timestamp="1583172344186">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583172344186" />
+    <state width="1877" height="365" key="GridCell.Tab.1.left" timestamp="1583172344186">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583172344186" />
+    <state width="1877" height="365" key="GridCell.Tab.1.right" timestamp="1583172344186">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583172344186" />
+    <state width="1877" height="342" key="GridCell.Tab.2.bottom" timestamp="1582461605328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582461605328" />
+    <state width="1877" height="342" key="GridCell.Tab.2.center" timestamp="1582461605328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582461605328" />
+    <state width="1877" height="342" key="GridCell.Tab.2.left" timestamp="1582461605328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582461605328" />
+    <state width="1877" height="342" key="GridCell.Tab.2.right" timestamp="1582461605328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582461605328" />
+    <state x="490" y="180" key="Maven.ArtifactSearchDialog" timestamp="1583164149550">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="180" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583164149550" />
+    <state x="547" y="91" key="SettingsEditor" timestamp="1583175169446">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="547" y="91" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1583175169446" />
+    <state x="511" y="261" width="897" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582458216778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="511" y="261" width="897" height="606" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1582458216778" />
+    <state x="334" y="219" key="new project wizard" timestamp="1583174803770">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="219" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1583174803770" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1582471171038">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1582471171038" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1583174515428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1583174515428" />
+  </component>
+</project>

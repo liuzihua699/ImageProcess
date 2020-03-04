@@ -9,13 +9,12 @@ import java.util.List;
 
 /**
  * @ClassName dft
- * @Description TODO
+ * @Description TODO OpenCV绘制图片离散傅里叶变换
  * @Author 刘子华
  * @Date 2020/3/3 2:48
  */
 public class example3 {
-    public static void getDftStart(Mat img){
-        
+    public static void getDftImage(Mat img){
         // 1. 扩充图像边界(图像大小优化)
         int M = Core.getOptimalDFTSize(img.rows()); // 获得最佳DFT尺寸，为2的次方
         int N = Core.getOptimalDFTSize(img.cols()); // 同上
@@ -78,8 +77,11 @@ public class example3 {
         Core.normalize(mag, mag, 0, 255, Core.NORM_MINMAX, CvType.CV_8UC1);
 
         // 9.输出图片
+        
         HighGui.imshow("原图-tiger.jpg", img);
         HighGui.imshow("离散傅里叶变换频谱图", mag);
+        HighGui.moveWindow("原图-tiger.jpg", 400, 300);
+        HighGui.moveWindow("离散傅里叶变换频谱图",1000, 300);
         HighGui.waitKey();
         System.exit(-1);
     }
@@ -92,6 +94,6 @@ public class example3 {
         final String NAME = "tiger.jpg";
         String path = new File(ClassLoader.getSystemResource(NAME).getPath()).getAbsolutePath();
         Mat image = Imgcodecs.imread(path);
-        getDftStart(image);
+        getDftImage(image);
     }
 }

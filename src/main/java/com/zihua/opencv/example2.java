@@ -20,13 +20,9 @@ import java.util.List;
 public class example2 {
     
     // 直方图统计
-    public static void hist() {
-        final String NAME = "tiger.jpg";
-        String path = new File(ClassLoader.getSystemResource(NAME).getPath()).getAbsolutePath();
-        Mat img = Imgcodecs.imread(path);
-        Mat grey = new Mat();
-        
+    public static void getHistImage(Mat img) {
         // 1. 图片灰度化
+        Mat grey = new Mat();
         Imgproc.cvtColor(img, grey, Imgproc.COLOR_BGR2GRAY);
         List<Mat> mats = new LinkedList();
         mats.add(grey);
@@ -46,15 +42,22 @@ public class example2 {
                     new Point(i, histImage.rows() - Math.round(histogram.get(i, 0)[0])), 
                     new Scalar(255, 255, 255), 1, 8, 0);
         }
-
+        // 6. 输出图片
         HighGui.imshow("tiger原图", img);
         HighGui.imshow("tiger的直方图", histImage);
+        HighGui.moveWindow("tiger原图",400, 300);
+        HighGui.moveWindow("tiger的直方图",1000, 300);
         HighGui.waitKey();
+        System.exit(-1);
     }
 
     public static void main(String[] args) {
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
         System.out.println("版本：" + Core.VERSION);
-        hist();
+
+        final String NAME = "tiger.jpg";
+        String path = new File(ClassLoader.getSystemResource(NAME).getPath()).getAbsolutePath();
+        Mat img = Imgcodecs.imread(path);
+        getHistImage(img);
     }
 }

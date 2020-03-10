@@ -77,7 +77,6 @@ public class example3 {
         Core.normalize(mag, mag, 0, 255, Core.NORM_MINMAX, CvType.CV_8UC1);
 
         // 9.输出图片
-        
         HighGui.imshow("原图-tiger.jpg", img);
         HighGui.imshow("离散傅里叶变换频谱图", mag);
         HighGui.moveWindow("原图-tiger.jpg", 400, 300);
